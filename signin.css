@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+.bg:hover {
+  background: #754ffe;
+}
+.bg:hover i {
+  color: white;
+}
+.container {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 20px;
+}
+.btn-bg {
+  background: #754ffe;
+  color: white;
+}
+.btn-bg:hover {
+  background: #562eeb;
+  color: white;
+}
